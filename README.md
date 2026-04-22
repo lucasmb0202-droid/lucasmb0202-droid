@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas Matias Barbosa, estou cursando Análise e Desenvolvimento de Sistemas. Meu foco inicial é em Desenvolvimento Front-end e construção de interfaces web modernas, responsivas e funcionais. Com o objetivo futuro de me tornar um Desenvolvedor Fullstack. </p>
+<p align="left">Meu nome é Lucas Matias Barbosa, estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento web e na construção de aplicações funcionais, atuando tanto no front-end quanto no back-end. Busco evoluir continuamente minhas habilidades e adquirir experiência prática para me tornar um desenvolvedor Fullstack. </p>
 
 ###
 
